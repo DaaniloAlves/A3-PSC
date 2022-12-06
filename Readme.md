@@ -20,4 +20,4 @@ Foi desenvolvido pensando num sistema de estoque de bebidas de um bar.
 Projeto criado utilizando NetBeans e na linguagem JAVA.
 
 UNIVERSIDADE ANHEMBI MORUMBI
-SÃO PAULO, DEZEMBRO/2022
+SÃO PAULO, DEZEMBRO/2022.
