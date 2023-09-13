@@ -1,6 +1,3 @@
-FAVOR BAIXAR TODOS OS ARQUIVOS DO PROGRAMA E NÃO APENAS O .JAR POIS ELE PRECISA DA PASTA "LIB" PARA FUNCIONAR
-
-
 *Projeto de faculdade programado por*:
 
 Danilo Alves Guimarães
